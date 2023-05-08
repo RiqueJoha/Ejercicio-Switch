@@ -1,0 +1,20 @@
+#color-1{
+    color: white;
+}
+
+#color-2{
+    color: violet;
+}
+
+#color-3{
+    color: pink;
+}
+
+select{
+background-color: grey;
+}
+
+img{
+width: 300px;
+height: 200px;
+}
